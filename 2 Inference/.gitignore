@@ -218,3 +218,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+data/
+__pycache__/
+*.pyc
+.venv/
+.idea/
+.vscode/
+screenshots/*.html
+screenshots/kpi.json
