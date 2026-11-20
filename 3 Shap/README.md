@@ -4,6 +4,12 @@
 
 Дашборд основан на следующем датасете: `cards_raw.parquet`. SHAP-датасет: `shap_cards.csv`.
 
+Зависимости:
+
+```
+pip install -r requirements.txt
+```
+
 Подготовка данных:
 
 ```
